@@ -1,4 +1,4 @@
-# Shopping cart app
+# Spotify django clone
 
 This is a clone spotify website. it use python with django framework, html, css, javascript and tailwind css. The app uses Spotify scrapper API to get the data from spotify in order to display on the front page the top artists and the top new contents. There is also a search engine and the user can listen to the tracks.
   
